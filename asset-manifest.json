@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/daria-hryshchenko/data-structure/static/css/main.b4603b6a.css",
-    "main.js": "/daria-hryshchenko/data-structure/static/js/main.d26640de.js",
-    "index.html": "/daria-hryshchenko/data-structure/index.html",
-    "main.b4603b6a.css.map": "/daria-hryshchenko/data-structure/static/css/main.b4603b6a.css.map",
-    "main.d26640de.js.map": "/daria-hryshchenko/data-structure/static/js/main.d26640de.js.map"
+    "main.css": "/data-structure/static/css/main.b4603b6a.css",
+    "main.js": "/data-structure/static/js/main.d26640de.js",
+    "index.html": "/data-structure/index.html",
+    "main.b4603b6a.css.map": "/data-structure/static/css/main.b4603b6a.css.map",
+    "main.d26640de.js.map": "/data-structure/static/js/main.d26640de.js.map"
   },
   "entrypoints": [
     "static/css/main.b4603b6a.css",
